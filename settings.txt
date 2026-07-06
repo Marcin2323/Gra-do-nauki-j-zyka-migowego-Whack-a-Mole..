@@ -1,0 +1,4 @@
+difficulty=easy
+sound_enabled=1
+show_hints=0
+letters=A/True,B/True,C/True,E/True,I/True,L/True,M/True,N/True,O/True,P/True,R/True,S/True,T/True,U/True,W/True,Y/True
