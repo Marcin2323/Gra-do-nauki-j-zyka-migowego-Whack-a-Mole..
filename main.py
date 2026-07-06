@@ -9,7 +9,7 @@ import sqlite3
 from datetime import datetime
 import mod.main_models_v3
 import importlib.util
-file_path = r"C:\Users\Marcin Głąb\Desktop\Inzynierka\python_mediapipe\RawData.py"
+file_path = r"\python_mediapipe\RawData.py"
 module_name = "RawData"
 
 spec = importlib.util.spec_from_file_location(module_name, file_path)
